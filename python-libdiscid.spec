@@ -9,7 +9,7 @@ Summary:	Python 2 bindings for libdiscid library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki libdiscid
 Name:		python-libdiscid
 Version:	1.0
-Release:	10
+Release:	11
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/python-libdiscid
